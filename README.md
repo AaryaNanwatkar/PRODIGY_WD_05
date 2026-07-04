@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# PRODIGY_WD_05
 
 ## Task Description
 This repository contains Task 02 of the Prodigy Web Development Internship.
