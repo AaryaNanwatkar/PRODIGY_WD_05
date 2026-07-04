@@ -5,7 +5,7 @@ This repository contains Task 02 of the Prodigy Web Development Internship.
 
 ## Project
 Weather App built using:
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
