@@ -13,7 +13,7 @@ Weather App built using:
 - Start, Pause, Reset stopwatch
 - Lap time recording
 - Responsive user interface
-## Project Structure
+## Project Structure 
 - index.html
 - style.css
 - script.js
